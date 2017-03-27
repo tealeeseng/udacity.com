@@ -1,2 +1,9 @@
 IntroToMachineLearning/ud120-projects/maildir/*
 enron_mail_20150507.tgz
+DeepLearning/udacity/notMNIST_large/*
+DeepLearning/udacity/notMNIST_small/*
+DeepLearning/udacity/project/*
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+text8.zip
+notMNIST.pickle
